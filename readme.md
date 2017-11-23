@@ -1,6 +1,7 @@
-bitstamp.net
+Агрегаторы
 ```
-404
+https://www.cryptocompare.com/api/
+https://apiv2.bitcoinaverage.com/
 ```
 
 
@@ -38,8 +39,7 @@ https://github.com/mariodian/bitfinex-api-php
 
 ```
 
-Агрегаторы
+bitstamp.net
 ```
-https://www.cryptocompare.com/api/
-https://apiv2.bitcoinaverage.com/
+404
 ```
